@@ -24,7 +24,7 @@ class MyHomePage extends StatelessWidget {
         body: SingleChildScrollView(
             child: Column(
             //mainAxisAlignment: MainAxisAlignment.spaceAround,
-            crossAxisAlignment: CrossAxisAlignment.stretch,
+            //crossAxisAlignment: CrossAxisAlignment.stretch,
             children: <Widget>[
               Card(
                 color: Colors.blue,
